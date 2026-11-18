@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 12,
   "exit": "App io.ncoooooper.cursorodometer exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "6f20945da18233c9551e3f73ed2e78d75e880869d1e011ab988123d4536d80ea",
+  "sha256": "ac7585c89206f2d199f68e19c2c7e08b30957004bfa037bdc2f079447a118a35",
   "pages": [
     {
       "caption": "CURSOR TODAY",
@@ -36,5 +36,24 @@
       "Accumulated on displays",
       "No cursor positions saved"
     ]
+  },
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "Recorded companion readings",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok"
+      ]
+    ],
+    "frames": 128,
+    "distinct_by_flow": [
+      7,
+      11
+    ],
+    "exit": "App io.btype.cursorodometer exited: finished; heap peak 87.2 of 128 KiB"
   }
 }
