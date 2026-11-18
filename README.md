@@ -16,13 +16,13 @@ A long pointer trip is easy to miss across two monitors. Keep today’s total in
 
 1. If the monitor reports the wrong physical size, measure its scale and pass millimeters per logical point to the collector as described below.
 2. Turn the wheel back to today. Click to fetch the latest stored total once the collector has written new movement.
-3. Listen for a difference in what you are measuring: the figure describes movement on the display surface. It cannot tell you how far your hand moved on the desk.
+3. Read the figure as distance traveled by the on-screen pointer. Measuring hand travel on the desk would require a different measurement.
 
 ![Yesterday’s zero gives way to today’s 420.0 m total.](media/guide/return-to-today.gif)
 
 ## Example from the emulator
 
-A cross-display jump is excluded because there is no sampled path over the physical gap. Long gaps are excluded too. The totals file used for this recording contained daily distances only. Synthetic daily aggregate file in the same format written by the macOS Swift collector.
+A cross-display jump is excluded because there is no sampled path over the physical gap. Long gaps are excluded too. The totals file used for this recording contained daily distances only. The sample totals were supplied in the Mac collector’s daily file format.
 
 ## Set up the source
 
