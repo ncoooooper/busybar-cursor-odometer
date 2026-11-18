@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 12,
   "exit": "App io.ncoooooper.cursorodometer exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "ac7585c89206f2d199f68e19c2c7e08b30957004bfa037bdc2f079447a118a35",
+  "sha256": "5a3bb14cb6017aef31cfb0a8673e64da90f36beadfe407b6402f53b5d42ee1aa",
   "pages": [
     {
       "caption": "CURSOR TODAY",
@@ -51,9 +51,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      2,
+      2
     ],
-    "exit": "App io.btype.cursorodometer exited: finished; heap peak 87.2 of 128 KiB"
+    "exit": "App io.btype.cursorodometer exited: finished; heap peak 85.8 of 128 KiB"
   }
 }

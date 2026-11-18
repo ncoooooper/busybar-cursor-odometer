@@ -4,6 +4,8 @@ See how far the pointer traveled across your screens today and yesterday.
 
 A long pointer trip is easy to miss across two monitors. Keep today’s total in sight and compare it with yesterday without recording where you went or which apps you used.
 
+The upper strip shows today’s pointer travel and the lower strip shows yesterday’s. The longer distance fills its track. The brighter strip identifies the selected day.
+
 ## Compare two days of pointer travel
 
 1. Run the Mac collector before starting work and point the companion at its totals file.
