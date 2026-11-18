@@ -6,6 +6,20 @@ A long pointer trip is easy to miss across two monitors. Keep today’s total in
 
 The upper strip shows today’s pointer travel and the lower strip shows yesterday’s. The longer distance fills its track. A pale dot identifies the selected day, including when its distance is zero.
 
+## Screen transitions
+
+Watch the selection change between days. The two distance strips use the recorded totals.
+
+![Cursor Odometer front display. Watch the selection change between days. The two distance strips use the recorded totals.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Cursor Odometer rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Compare two days of pointer travel
 
 1. Run the Mac collector before starting work and point the companion at its totals file.
@@ -44,6 +58,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

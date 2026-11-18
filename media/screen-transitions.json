@@ -1,0 +1,47 @@
+{
+  "app": "busybar-cursor-odometer",
+  "sha256": "9efc5d068808494893d4c9185ffc9450080ebf5bc87816deb4befad397205951",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "compare-yesterday",
+        "return-to-today"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        7,
+        6,
+        24
+      ],
+      "rear_frames": 11,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}
