@@ -4,6 +4,6 @@
   "name": "Cursor Odometer",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Cursor Odometer",
+  "description": "See how far the pointer traveled across your screens today and yesterday.",
   "author": "ncoooooper"
 }

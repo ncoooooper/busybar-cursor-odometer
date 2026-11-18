@@ -2,7 +2,7 @@
   "name": "busybar-cursor-odometer",
   "private": true,
   "version": "0.1.0",
-  "description": "Cursor Odometer",
+  "description": "See how far the pointer traveled across your screens today and yesterday.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
